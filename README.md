@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Srijan
 
-<!--
-**Pqliar88/Pqliar88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Systems Developer | C++ | ONNX Runtime | Linux Optimization
 
-Here are some ideas to get you started:
+I build high-performance AI systems combining emotion modeling, LLM reasoning, and low-level optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Project: Echo
+
+🧠 Emotion-Aware AI System
+
+* Hybrid model: Emotion classification + LLM reasoning
+* ONNX Runtime (GPU) for fast inference
+* Trust-aware decision system
+* Multi-modal input (text + voice)
+
+---
+
+## ⚡ What I Work On
+
+* AI Systems Engineering
+* Performance Optimization (Linux, RAM disk, builds)
+* LLM + Local Model Integration
+* C++ Backend Systems
+
+---
+
+## 🛠 Tech Stack
+
+C++ | Python | ONNX Runtime | FastAPI | Linux | CMake
+
+---
+
+## 📌 Current Focus
+
+Building **Echo** → Emotion-first AI system with real-time inference
+
+---
+
+## 📫 Connect with me : https://www.linkedin.com/in/srijan-das-415653321/
+
+LinkedIn: (your link)
