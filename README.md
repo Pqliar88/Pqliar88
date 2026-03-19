@@ -38,6 +38,6 @@ Building **Echo** → Emotion-first AI system with real-time inference
 
 ---
 
-## 📫 Connect with me : https://www.linkedin.com/in/srijan-das-415653321/
+## 📫 Connect with me : 
 
-LinkedIn: (your link)
+LinkedIn:https://www.linkedin.com/in/srijan-das-415653321
